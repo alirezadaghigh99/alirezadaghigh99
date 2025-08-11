@@ -1,13 +1,14 @@
 <div align="center">
 
-# 👋 Hey there, I'm Alireza Daghigh!
+# 👋 Hey there, I'm Alireza Daqiq!
 
-### 🚀 Software & ML Engineer | MLOps Enthusiast | Deep Learning Researcher
+### 🚀 Software Engineer | ML Researcher | Backend Development Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=ML+Engineer+%26+Researcher;Deep+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;ML+Researcher;LLM+Integration+Expert;MSc+Computer+Science+Student!" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/alirezadaghigh99?style=social)](https://github.com/alirezadaghigh99)
 [![GitHub stars](https://img.shields.io/github/stars/alirezadaghigh99?style=social)](https://github.com/alirezadaghigh99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/alireza-daqiq)
 
 </div>
 
@@ -15,77 +16,94 @@
 
 ## 🎯 About Me
 
-I'm a passionate Software and ML Engineer currently exploring the exciting world of MLOps at **Sharif University of Technology**. I love building intelligent systems and contributing to the open-source community.
+I'm a Software Engineer and MSc Computer Science student at **York University** (Toronto, ON) with a strong focus on backend development. I specialize in building scalable backend systems and integrating Large Language Models (LLMs) within backend infrastructures.
 
-- 🔬 **Currently Learning:** MLOps, Deep Learning optimization, and scalable AI systems
-- 💡 **Interests:** Machine Learning, Computer Vision, Natural Language Processing, and Medical AI
-- 🌟 **Goal:** Creating impactful AI solutions that solve real-world problems
-- 🏆 **Achievement:** Arctic Code Vault Contributor
+- 🎓 **Education:** MSc Computer Science @ York University (Expected Aug 2025) | BSc Computer Engineering @ Sharif University of Technology
+- 🔬 **Current Research:** Code generation benchmarks for deep learning tasks, LLM evaluation, and agentic LLM systems
+- 💼 **Experience:** ML Researcher, GenAI Developer Intern @ Turing.com, Database Administrator, MLOps Engineer
+- 🌍 **Location:** Toronto, ON, Canada (open to relocate)
+- 🏆 **Achievement:** Arctic Code Vault Contributor | Papers under review at NeurIPS2025 & KDD2025
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend & Web Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
 
 ### ML/AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-## 🌟 Pinned Projects
+## 💼 Professional Experience
 
-### 📊 [DL-Bench](https://github.com/alirezadaghigh99/DL-Bench)
-*Deep Learning Benchmarking Suite*
-- Performance benchmarking tools for deep learning models
-- **Language:** Python
-- **Status:** Active development with community contributions
+### 🔬 Machine Learning Researcher | York University
+**Dec 2023 – Present | Toronto, CA**
+- Built a **code generation benchmark** for deep learning tasks with 520+ instances and 3,000+ test cases
+- Evaluated LLMs (GPT-4o, Claude 3.5, LLaMA 3.1) using Amazon Bedrock, OpenAI, and Python
+- Achieved **0.98 accuracy** on ASDiV dataset for task-oriented script generation
+- **Publications:** NeurIPS2025 & KDD2025 under review
 
-### 🏥 [medical_rag](https://github.com/alirezadaghigh99/medical_rag)
-*Medical Retrieval-Augmented Generation System*
-- AI-powered medical information retrieval and generation
-- **Language:** Python
-- **Focus:** Healthcare AI, RAG architecture, Medical NLP
+### 🤖 GenAI Developer Intern | Turing.com
+**Jan 2025 – Present | Palo Alto, USA (Remote)**
+- Developed benchmarking and testing framework for **LLM agents** using Docker, Python, and Gemini
+- Implemented systematic evaluation protocols to optimize reasoning capabilities
 
-### 🔒 [captcha](https://github.com/alirezadaghigh99/captcha)
-*CAPTCHA Generation & Verification System*
-- Go package for generating and verifying image and audio CAPTCHAs
-- **Language:** Go
-- **Fork of:** dchest/captcha - Enhanced with custom features
+### 🗄️ Database Administrator | York University History Department
+**Sep 2024 – Present | Toronto, CA**
+- Clean and maintain **PostgreSQL databases** for data consistency and performance
+- Develop optimized data analytics queries for research and administrative reporting
 
-### 🗄️ [database-project](https://github.com/alirezadaghigh99/database-project)
-*Database Management System Implementation*
-- Comprehensive database project with advanced features
-- **Language:** Python
-- **Focus:** Database design, optimization, and management
+### ⚙️ MLOps Engineer | MLSys Lab
+**Jul 2021 – Jul 2022 | Tehran, IR**
+- Built end-to-end ML systems using **TFX and Apache Airflow**
+- Developed Wide & Deep recommender system achieving **AUC of 0.78**
+- Built lab website using Django, Bootstrap, and Docker
 
-### 📝 [ReadmeAI](https://github.com/alirezadaghigh99/ReadmeAI)
-*AI-Powered README Generator*
-- Intelligent documentation generator using machine learning
-- **Language:** Python
-- **Features:** Automated documentation, AI-driven content creation
+## 🌟 Featured Projects
 
-### 💰 [Splitwise](https://github.com/alirezadaghigh99/Splitwise)
-*Expense Sharing Application*
-- Smart expense tracking and splitting application
-- **Language:** JavaScript
-- **Fork of:** nimajam41/DongLand - Enhanced with additional features
+### 📚 [Sublearn](https://github.com/alirezadaghigh99/sublearn)
+*English Learning Platform*
+- Subtitle-based vocabulary learning system with deck creation
+- **Stack:** Django backend, Semantic UI frontend
+- **Course:** System Analysis and Design (SAD)
+
+### 🚨 [Crime Finder](https://github.com/alirezadaghigh99/crime-finder)
+*Location Safety Mobile App*
+- Android app showing dangerous areas in Tehran based on user reports
+- **Stack:** Android frontend, Java/PHP backend
+- **Course:** Mobile Development
+
+### 👨‍⚕️ [Smart Doctor](https://github.com/alirezadaghigh99/smart-doctor)
+*Doctor Appointment System*
+- Healthcare appointment booking system built with agile methodology
+- **Stack:** Django, Bootstrap
+- **Course:** Software Engineering
 
 ## 📊 GitHub Statistics
 
@@ -110,13 +128,32 @@ I'm a passionate Software and ML Engineer currently exploring the exciting world
 
 </div>
 
+## 🎓 Education
+
+**🎓 Master of Computer Science (MSc)** | *York University* | Jan 2024 – Expected Aug 2025
+
+**🎓 Bachelor of Computer Engineering (BSc)** | *Sharif University of Technology* | Sep 2017 – Jun 2022
+
+## 🏆 Achievements & Activities
+
+### 📝 Publications & Research
+- **NeurIPS2025** - Code generation benchmark paper (Under Review)
+- **KDD2025** - Task-oriented script generation research (Under Review)
+
+### 🎤 Conference & Competition Leadership
+- **Executive Staff** - ICST (International Conference on Software Testing) | April 2024
+  - Managed logistics for 200+ attendee international conference
+- **Technical Staff** - AI Challenge | July 2019
+  - Led custom video game development for 300+ participant AI competition
+
 ## 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezadaghigh99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-daqiq)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alirezadaghigh99)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezadaghigh99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.daghigh1999@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-(437)_868--4836-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+14378684836)
 
 </div>
 
